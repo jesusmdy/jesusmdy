@@ -1,4 +1,10 @@
 ### Hi there 👋
+- 🔭 I’m currently working on the web...
+- 🌱 I’m currently learning front-end mastery...
+- 👯 I’m looking to collaborate on interesting ideas...
+- 📫 How to reach me:
+  - https://twitter.com/jesusmdy
+  - https://www.linkedin.com/in/jesusmdy/
 
 <!--
 **jesusmdy/jesusmdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
