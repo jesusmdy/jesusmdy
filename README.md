@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning front-end mastery...
 - 👯 I’m looking to collaborate on interesting ideas...
 - 📫 How to reach me:
+  - https://jesusmdy.dev
   - https://twitter.com/jesusmdy
   - https://www.linkedin.com/in/jesusmdy/
 
