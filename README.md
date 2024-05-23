@@ -1,5 +1,5 @@
 ### Hi there 👋
-I've been learning web development since 2017 and I discovered a whole new world of ideas and projects to come alive. I like to spill my ideas in the code and look for the results with proud. Since I discovered Typescript everything seems more ordered. I enjoy contributing with design ideas and suggestions. If you want to chat, below you'll find how to reach me.
+I've been learning web development since 2017 and I discovered a whole new world of ideas and projects for come alive. I like to spill my ideas in the code and see the results with proud. Since I discovered Typescript everything seems more ordered. I enjoy contributing with design ideas and suggestions. If you want to chat, below you'll find how to reach me.
 
 - 🔭 I’m currently working on the web...
 - 🌱 I’m currently learning front-end mastery...
