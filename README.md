@@ -1,27 +1,24 @@
 ### Hi there 👋
-Front-end developer with 3+ years of experience in building appealing user experiences for people around the globe.
 
-- 🔭 I’m currently working on the web...
-- 🌱 I’m currently learning front-end mastery...
-- 👯 I’m looking to collaborate on interesting ideas...
-- 📫 How to reach me:
-  - https://jesusmdy.dev
-  - https://twitter.com/jesusmdy
-  - https://www.linkedin.com/in/jesusmdy/
+**Front-end Developer** with **4 years of experience** specializing in **React** and the modern JavaScript ecosystem. I focus on building high-performance, scalable, and visually sharp user experiences for people around the globe.
 
-<!--
-**jesusmdy/jesusmdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 **Currently working on:** Optimizing web architectures and refining complex React applications.
+- 🌱 **Currently learning:** Advanced Python integration and mobile-first development environments.
+- 👯 **Looking to collaborate on:** Innovative React libraries or high-impact open-source projects.
+- 💬 **Ask me about:** React hooks, state management, Git workflows, or hardware optimization.
+- 📫 **How to reach me:**
+  - [jesusmdy.dev](https://jesusmdy.dev)
+  - [LinkedIn](https://www.linkedin.com/in/jesusmdy/)
+  - [Twitter](https://twitter.com/jesusmdy)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+
+* **Languages:** JavaScript (ES6+), TypeScript, Python
+* **Frontend:** React, Next.js, Redux, Tailwind CSS
+* **Tools & Workflow:** Git, Docker, XTermux, Linux
+
+---
 
 [![Jesusmdy's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusmdy&layout=compact&theme=transparent&hide_border=true&hide=vue)](https://github.com/jesusmdy)
